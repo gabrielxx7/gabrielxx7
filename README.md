@@ -5,12 +5,17 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa gabrielxx7
 
 ### Detalhes
 
-<a href="https://github.com/gabrielxx7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/gabrielxx7/gabrielxx7.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gabrielxx7&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
-<br />
-<br />
+### Projetos
+
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=gabrielxx7&repo=Nike&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=gabrielxx7&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+### Contatos
+
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](www.linkedin.com/in/gabwilliam)
