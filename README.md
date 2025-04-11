@@ -1,7 +1,8 @@
 ### Olá Pessoal👋
 
 ####### Sou o Gabriel
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa gabrielxx7
+
+Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho do meu desenvolvimento.
 
 ### Detalhes
 
