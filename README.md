@@ -8,12 +8,12 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
+### Projetos⚡
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://gabrielxx7.github.io/)
 
-### Futuro Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meteorologia&theme=dark)](https://Meteorologia/)
+### Futuros Projetos⚡
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meteorologia&theme=dark)](https://futurometeorologia/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=E-commerce&theme=dark)](https://E-commerce/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Cartorio_de_Registro&theme=dark)](https://Cartorio_de_Registro/)
 
