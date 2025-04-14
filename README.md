@@ -6,8 +6,6 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 
 ### Detalhes
 
-### Detalhes
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
