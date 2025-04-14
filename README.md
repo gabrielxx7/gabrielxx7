@@ -10,7 +10,7 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://github.com/gabrielxx7.github.io/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://gabrielxx7.github.io/)
 
 ### Linguagens utilizadas
 
