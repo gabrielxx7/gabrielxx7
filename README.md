@@ -6,17 +6,18 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gabrielxx7&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=gabrielxx7&repo=Nike&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Nike&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=gabrielxx7&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielxx7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](www.linkedin.com/in/gabwilliam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabwilliam)
