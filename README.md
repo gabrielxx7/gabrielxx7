@@ -13,7 +13,7 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://gabrielxx7.github.io/)
 
 ### Futuros Projetos⚡
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=E-commerce&theme=dark)](https://E-commerce/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=11111111111=dark)](https://E-commerce/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Cartorio_de_Registro&theme=dark)](https://Cartorio_de_Registro/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meteorologia&theme=dark)](https://futurositee/)
 
