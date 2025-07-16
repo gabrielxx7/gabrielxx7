@@ -13,11 +13,11 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://gabrielxx7.github.io/)
 
 ### Futuros Projetos⚡
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meu-Portfolio=dark)](https://gabrielxx7.github.io/Meu-portfolio-/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meu-Portfolio&theme=dark)](https://gabrielxx7.github.io/Meu-portfolio-/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Cartorio_de_Registro&theme=dark)](https://Cartorio_de_Registro/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meteorologia&theme=dark)](https://futurositee/)
 
-### Linguagens utilizadas
+### Linguagens Utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielxx7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
