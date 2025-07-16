@@ -11,7 +11,7 @@ Atualmente sou estudante do curso de Eng. Software, vou postar aqui um pouquinho
 ### Projetos⚡
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=gabrielxx7.github.io&theme=dark)](https://gabrielxx7.github.io/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meu_Portfolio&theme=dark)](https://gabrielxx7.github.io/Meu-portfolio/) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Meu-portfolio&theme=dark)](https://gabrielxx7.github.io/Meu-portfolio/) 
 
 ### Futuros Projetos⚡
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielxx7&repo=Cartorio_de_Registro&theme=dark)](https://Cartorio_de_Registro/)
