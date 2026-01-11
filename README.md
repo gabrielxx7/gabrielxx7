@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel William
 
-**`Desenvolvedora FullStack`**
+**`No caminho para Desenvolvedor FullStack🚀`**
 
 Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharelado em Engenharia de Software. Tenho foco em criar soluções escaláveis, seguras e bem estruturadas, priorizando boas práticas de desenvolvimento e qualidade de código., Segue meu Instagram, com o perfil chamado "[Gabriel William](https://www.instagram.com/gabrielll_br/)".
 
@@ -12,7 +12,7 @@ Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharel
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielSoft?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/gabrielxx7?tab=followers">
+    <a href="https://github.com/GabrielSoft?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
