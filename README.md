@@ -5,18 +5,18 @@
 Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharelado em Engenharia de Software. Tenho foco em criar soluções escaláveis, seguras e bem estruturadas, priorizando boas práticas de desenvolvimento e qualidade de código., Segue meu Instagram, com o perfil chamado "[Gabriel William](https://www.instagram.com/gabrielll_br/)".
 
 <p align="left">
-    <a href="https://github.com/gabrielxx7?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GabrielSoft?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielxx7?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/GabrielSoft?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/gabrielxx7?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielxx7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielSoft?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
