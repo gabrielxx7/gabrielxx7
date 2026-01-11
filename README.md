@@ -94,7 +94,7 @@ Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharel
 <br/>
 
 ### Estatística 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7)](https://github.com/gabrielxx7/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/gabrielxx7)
 
 ---
 
