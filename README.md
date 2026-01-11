@@ -93,9 +93,6 @@ Sou Desenvolvedor Front-end e Back-end em formação e atualmente curso Bacharel
 <br/>
 <br/>
 
-### Estatística 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielxx7&show_icons=true&theme=dark&cache_seconds=1800)](https://github.com/gabrielxx7)
-
 ---
 
 ### 📫 Contatos
